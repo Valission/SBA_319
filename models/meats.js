@@ -6,7 +6,7 @@ const meatSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    aniaml: {
+    animal: {
         type: String
     },
     months_to_mature:{
